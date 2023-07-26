@@ -1,4 +1,3 @@
-@@ -0,0 +1,10 @@
 - 👋 Hi, I’m @Shyamladani (Shyam Ladani)
 - 👀 I’m interested in: Data Engineering / Data Analytics / Azure Synapse / Azure Cloud
 - 🌱 I’m currently learning: Azure Data Factory, Databricks, Python, Microsoft Fabric.
